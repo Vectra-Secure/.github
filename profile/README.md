@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Vectra-Secure/.github/main/profile/assets/logo.png" width="80" alt="Vectra Secure 로고">
   <h1>Vectra Secure</h1>
-  <p>AI와 소프트웨어를, 신뢰할 수 있게.</p>
+  <p>AI와 소프트웨어를, 신뢰할 수 있게.<br>AI and software you can trust.</p>
   <p>
     <a href="https://vectrasecure.kr">웹사이트</a> ·
     <a href="https://vectrasecure.kr/programs">프로그램</a> ·
@@ -9,7 +9,7 @@
   </p>
 </div>
 
-Vectra Secure는 부산에서 AI와 소프트웨어를 만들고 운영하는 회사입니다. 보안 규정 때문에 외부 AI를 쓰지 못하던 기업도 AI를 업무에 쓸 수 있도록, 회사 데이터를 밖으로 내보내지 않는 AI를 만듭니다.
+Vectra Secure는 부산의 소프트웨어 개발 회사입니다. 웹·앱과 AI를 활용한 서비스, AI 모델을 만들고, 만든 것의 보안까지 책임집니다.
 
 ## 하는 일
 
@@ -38,7 +38,7 @@ AI 솔루션 개발, 소프트웨어 개발, 클라우드 인프라, 보안 내�
 
 ## English
 
-Vectra Secure is an AI and software company based in Busan, South Korea. We build AI that companies can adopt even when their security rules do not allow data to leave the company. We take on AI solutions, software development, cloud infrastructure and built-in security, from planning through operations.
+Vectra Secure is a software development company based in Busan, South Korea. We build web and mobile apps, AI-powered services and AI models, and we take responsibility for the security of what we build. We take on AI solutions, software development, cloud infrastructure and built-in security, from planning through operations.
 
 ### Projects
 
