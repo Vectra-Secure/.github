@@ -3,9 +3,9 @@
   <h1>Vectra Secure</h1>
   <p>AI와 소프트웨어를, 신뢰할 수 있게.<br>AI and software you can trust.</p>
   <p>
-    <a href="https://vectrasecure.kr">웹사이트</a> ·
-    <a href="https://vectrasecure.kr/programs">프로그램</a> ·
-    <a href="https://vectrasecure.kr/contact">문의</a>
+    <a href="https://vectrasecure.kr">Website</a> ·
+    <a href="https://vectrasecure.kr/programs">Programs</a> ·
+    <a href="https://vectrasecure.kr/contact">Contact</a>
   </p>
 </div>
 
@@ -13,7 +13,10 @@ Vectra Secure는 부산의 소프트웨어 개발 회사입니다. 웹·앱과 A
 
 ## 하는 일
 
-AI 솔루션 개발, 소프트웨어 개발, 클라우드 인프라, 보안 내재화를 맡습니다. 기획부터 운영까지, 필요한 곳에서 함께합니다.
+- **웹·앱 개발**: 기업용 웹 서비스와 앱을 기획부터 운영까지 만듭니다.
+- **AI 활용 개발**: 사내 문서 검색과 질의응답처럼, 업무와 서비스에 AI 기능을 붙입니다.
+- **AI 개발**: 예지보전, 이미지 인식처럼 목적에 맞는 AI 모델을 데이터로 학습시켜 만듭니다.
+- **보안**: 만든 서비스와 클라우드 인프라의 보안을 설계 단계부터 운영까지 책임집니다.
 
 ## 기술을 대하는 방식
 
@@ -32,13 +35,26 @@ AI 솔루션 개발, 소프트웨어 개발, 클라우드 인프라, 보안 내�
 
 ## 문의
 
-새로운 제품이나 AI 도입을 고민하고 있다면 [문의 페이지](https://vectrasecure.kr/contact)로 연락해 주세요.
+웹·앱 개발이나 AI 도입, 보안에 관한 일이라면 [문의 페이지](https://vectrasecure.kr/contact)로 연락해 주세요.
 
 ---
 
 ## English
 
-Vectra Secure is a software development company based in Busan, South Korea. We build web and mobile apps, AI-powered services and AI models, and we take responsibility for the security of what we build. We take on AI solutions, software development, cloud infrastructure and built-in security, from planning through operations.
+Vectra Secure is a software development company based in Busan, South Korea. We build web and mobile apps, AI-powered services and AI models, and we take responsibility for the security of what we build.
+
+### What we do
+
+- **Web and mobile development**: business web services and apps, from planning through operations.
+- **AI-powered development**: AI features built into products and workflows, such as internal document search and Q&A.
+- **AI development**: models trained on data for a specific job, such as predictive maintenance and image recognition.
+- **Security**: security for the services and cloud infrastructure we build, from design through operations.
+
+### How we work
+
+- **We start from real problems.** We look at the work and the data before choosing technology, and we check results against evidence.
+- **We stay responsible through operations.** Security and maintenance are part of the design, and we leave systems the client's team can run and extend.
+- **We build for a wider world.** We make products people can trust in different environments, and lay the groundwork for going global.
 
 ### Projects
 
@@ -49,4 +65,4 @@ Vectra Secure is a software development company based in Busan, South Korea. We 
 
 ### Contact
 
-[vectrasecure.kr/contact](https://vectrasecure.kr/contact)
+Email [vectrasecurenero@gmail.com](mailto:vectrasecurenero@gmail.com), or use the [contact page](https://vectrasecure.kr/contact) on our website.
